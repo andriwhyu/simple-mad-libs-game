@@ -1,0 +1,16 @@
+Saya mempunyai sebuah $kata_benda$ di $kata_tempat$
+Saya mengendarai $jenis_kendaraan$ menuju ke $kata_tempat$ dalam rangka bertemu seorang $pekerjaan$ untuk memperbaiki $kata_benda$ yang $kata_sifat$
+Saya makan $kata_benda$ dan minum $kata_benda$ setelah $kata_kerja$
+Di dunia ini ada tiga hal yang paling dibenci orang, yaitu $kata_benda$ kosong, $kata_benda$ kosong, dan juga $kata_benda$ kosong
+Cara termudah mencari $kata_benda$ yang hilang di $kata_tempat$ adalah dengan $kata_kerja$ yang baru
+
+
+
+
+kererangan:
+- kata_benda: Kata benda
+- kata_tempat: Kata tempat
+- kata_kerja: Kata kerja
+- jenis_kendaraan: Kendaraan
+- pekerjaan: Pekerjaan
+- kata_sifat: Kata sifat
