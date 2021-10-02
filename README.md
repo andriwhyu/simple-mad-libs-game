@@ -9,7 +9,7 @@ Masih belum ada gambaran tentang Mad Libs ? Berikut adalah contoh permainan Mad 
 
 ### 2. Mad Libs Simple Game
 
-!["Simulasi dari Mad Libs Simple Game"](/simple-mad-libs-game/Mad%20Libs%20Project/Resource/img/Mad%20Libs%20Game%20-%201.jpg)
+!["Simulasi dari Mad Libs Simple Game"](/simple-mad-libs-game/Mad-Libs-Project/Resource/img/Mad%20Libs%20Game%20-%201.jpg)
 
 Mad Libs Simple Game adalah sebuah game sederhana berbasis terminal yang didasarkan pada game Mad Libs sebenarnya. Pada game ini, pemain akan diberikan jenis kata yang harus dimasukkan oleh pemain tersebut. Setelah ia meneyelasaikannya, game akan mengenerate sebuah kalimat dengan menggunakan kata-kata yang sudah diinputkan.
 
@@ -19,7 +19,7 @@ Tujuan dari pembuatan game ini adalah mengimplementasikan ilmu pemrograman pytho
 
 ### 4. Gambaran umum sistem pada game Mad Libs
 
-!["Workflow dari game Mad Libs"](/simple-mad-libs-game/Mad%20Libs%20Project/Resource/img/How%20mad%20libs%20project%20works.png)
+!["Workflow dari game Mad Libs"](/simple-mad-libs-game/Mad-Libs-Project/Resource/img/How%20mad%20libs%20project%20works.png)
 
 Pertama-tama, program akan membaca kumpulan kalimat dari file dengan format _.txt_. Setelah itu, program akan mengidentifikasi jenis kata yang harus dimasukkan oleh pemain yang sudah ditandai dari kumpulan kalimat tersebut. Berdasarkan jenis kata tersebut, pemain diminta untuk memasukkan kata yang pemain inginkan. Kemudian program akan mengelola kata-kata tersebut dan memasukkannya ke dalam kalimat. Hasil akhirnya lalu akan ditampilkan melalui terminal. Selamat tertawa ! 😆
 
